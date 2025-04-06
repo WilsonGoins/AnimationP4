@@ -1,5 +1,5 @@
-# AnimationP4
-Project 4 - Animation
+# AnimationP4 - Group 8
+Project 4 - Animation - Group 8
 
 Group Members: Michelle Yao, Samir Saldanha, Wilson Goins
 
